@@ -15,4 +15,4 @@
 
   [Demographics dashboard tab](https://github.com/Jennybeth2199/Data-Analysis/blob/main/Demographics%20dashboard%20using%20Cognos.png)
 
-[Another example of a visualization using Cognos](https://github.com/Jennybeth2199/Data-Analysis/blob/main/Data%20Visualization%20using%20Cognos.png)
+- Another example of a visualization using Cognos: [Cognos link](https://github.com/Jennybeth2199/Data-Analysis/blob/main/Data%20Visualization%20using%20Cognos.png)
